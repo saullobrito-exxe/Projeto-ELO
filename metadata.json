@@ -1,0 +1,6 @@
+{
+  "name": "ELO — Pesquisa e Inteligência Governamental",
+  "description": "Plataforma de pesquisa documental, acervo audiovisual e inteligência governamental para o documentário Última Instância — Ricardo Couto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

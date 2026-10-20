@@ -1,0 +1,6 @@
+{
+  "summary":  "Plano de implementação da plataforma ELO V1 — Plataforma de Pesquisa e Inteligência Governamental para o documentário 'Última Instância — Ricardo Couto'. Define a arquitetura com exatamente três abas vinculadas às pastas do Google Drive, tela inicial de boas-vindas com botões de navegação, autenticação Google OAuth com acervo catalogado como fallback, pipeline Gemini API com suporte a NotebookLM Enterprise, e análise de sentimento fundamentada com separação entre imprensa e redes sociais.",
+  "updatedAt":  "2026-10-20T15:04:39.560811525Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
